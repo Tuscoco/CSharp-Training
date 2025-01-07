@@ -1,0 +1,15 @@
+/home/tusca/Estudos/CSharp-Training/Course/Variables/bin/Debug/net8.0/Variables
+/home/tusca/Estudos/CSharp-Training/Course/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/tusca/Estudos/CSharp-Training/Course/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/tusca/Estudos/CSharp-Training/Course/Variables/bin/Debug/net8.0/Variables.dll
+/home/tusca/Estudos/CSharp-Training/Course/Variables/bin/Debug/net8.0/Variables.pdb
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.sourcelink.json
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.dll
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.pdb
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/tusca/Estudos/CSharp-Training/Course/Variables/obj/Debug/net8.0/ref/Variables.dll
