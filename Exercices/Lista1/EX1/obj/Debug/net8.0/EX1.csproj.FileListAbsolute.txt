@@ -1,0 +1,15 @@
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/bin/Debug/net8.0/EX1
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/bin/Debug/net8.0/EX1.deps.json
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/bin/Debug/net8.0/EX1.runtimeconfig.json
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/bin/Debug/net8.0/EX1.dll
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/bin/Debug/net8.0/EX1.pdb
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.GeneratedMSBuildEditorConfig.editorconfig
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.AssemblyInfoInputs.cache
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.AssemblyInfo.cs
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.csproj.CoreCompileInputs.cache
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.sourcelink.json
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.dll
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/refint/EX1.dll
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.pdb
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/EX1.genruntimeconfig.cache
+/home/tusca/Estudos/CSharp-Training/Exercices/Lista1/EX1/obj/Debug/net8.0/ref/EX1.dll

@@ -1,0 +1,15 @@
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/bin/Debug/net8.0/OrdenacaoPorTamanho
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/bin/Debug/net8.0/OrdenacaoPorTamanho.deps.json
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/bin/Debug/net8.0/OrdenacaoPorTamanho.runtimeconfig.json
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/bin/Debug/net8.0/OrdenacaoPorTamanho.dll
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/bin/Debug/net8.0/OrdenacaoPorTamanho.pdb
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.GeneratedMSBuildEditorConfig.editorconfig
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.AssemblyInfoInputs.cache
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.AssemblyInfo.cs
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.csproj.CoreCompileInputs.cache
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.sourcelink.json
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.dll
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/refint/OrdenacaoPorTamanho.dll
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.pdb
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/OrdenacaoPorTamanho.genruntimeconfig.cache
+/home/tusca/Estudos/CSharp-Training/Exercices/Beecrowd/OrdenacaoPorTamanho/obj/Debug/net8.0/ref/OrdenacaoPorTamanho.dll

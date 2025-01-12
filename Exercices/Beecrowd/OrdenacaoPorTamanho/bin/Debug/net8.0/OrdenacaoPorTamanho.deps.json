@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrdenacaoPorTamanho/1.0.0": {
+        "runtime": {
+          "OrdenacaoPorTamanho.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrdenacaoPorTamanho/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
